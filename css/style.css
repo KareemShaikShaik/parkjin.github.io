@@ -1308,11 +1308,6 @@ header.inner-header .top-header {
   width: 50%;
   margin: 0 auto;
 }
-/*======================= Footer ==============*/
-footer {
-  background: #000;
-  padding-top: 88px;
-}
 footer .top-footer h4,footer .top-footer p,footer .top-footer a,footer .top-footer ul li,footer .top-footer h6 {
   color:#fff;
 }
