@@ -737,6 +737,7 @@ header.inner-header .top-header {
 }
 .welcome-section .row {
   margin-top: 25px;
+    background-color: aliceblue;
 }
 .welcome-section .row h3 {
   text-transform: uppercase;
